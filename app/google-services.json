@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "839062830676",
+    "project_id": "mylocationtracker-11680",
+    "storage_bucket": "mylocationtracker-11680.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:839062830676:android:a5b53b4661995ff71e37c1",
+        "android_client_info": {
+          "package_name": "com.carolmusyoka.mylocationtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "839062830676-410qatjuekkp5qmkpmm4eltlgr2ikb94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB83J1ywpVjByjfs1oBOayZgD0o8rOL7Dg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "839062830676-410qatjuekkp5qmkpmm4eltlgr2ikb94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
